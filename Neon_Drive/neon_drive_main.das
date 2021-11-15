@@ -67,7 +67,7 @@ var
     obstacle_scale = 3.5
     safe_area = 100000f
     vertical_velocity = 20f
-    horizontal_velocity = 2000f
+    horizontal_velocity = 1000f
     player_radius = 120f
     carOffsetHorizontal = 78f
     carOffsetVertical = 180f
